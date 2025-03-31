@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bee1an
+- 👀 I’m interested in Javascript
+- 🌱 I’m currently learning vue
